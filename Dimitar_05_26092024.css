@@ -1,0 +1,69 @@
+*{
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    color:white
+}
+
+h1{
+    color: white;
+}
+
+h1{
+    color:black;
+    text-align: center;
+}
+
+div{
+    width: 150px;
+    height: 100px;
+    padding: 30px;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+#lineaNegra{
+    background-color: rgb(143, 141, 141);
+    /*float: left;*/
+    clear: both;
+    width: 100%;
+    border-radius: 0px ;
+}
+
+#lineaVerde{
+    background-color: rgb(23, 221, 5);
+    clear: both;
+    width: 100%;
+    border-radius: 0px;
+}
+
+#bolaAzul{
+    background-color: rgb(25, 0, 255);
+    float: left;
+    width: 25%;
+    border-radius: 50%;
+}
+
+#bolaAmarilla{
+    background-color: rgb(255, 251, 0);
+    float: left;
+    width: 25%;
+    border-radius: 50%;
+}
+
+#bolaRoja{
+    background-color: red;
+    float: left;
+    width: 25%;
+    border-radius: 50%;
+}
+
+#bolaAzul2{
+    background-color: blue;
+    float: left;
+    width: 25%;
+    border-radius: 50%;
+}

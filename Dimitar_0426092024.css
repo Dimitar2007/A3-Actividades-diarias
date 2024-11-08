@@ -1,0 +1,48 @@
+/*
+
+    Dimitar Milevski
+    Septiembre
+*/
+
+*{
+    margin: 0px;
+    box-sizing: border-box;
+
+}
+
+div > a{
+    padding: 25px;
+    margin: 10px;
+    display: block;
+    font-size: 22px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-decoration: none;
+    background-color: aqua;
+    width: 150px;
+    border-radius: 25px;
+    color: rgba(red, green, blue, alpha)
+
+}
+
+.cajaRoja{
+
+    background-color: red;
+
+}
+
+.cajaAzul{
+
+    background-color: aqua;
+
+}
+
+.cajaNegra{
+
+    background-color: black;
+
+}
+
+.CajaVerde{
+
+    background-color: green;
+}

@@ -1,0 +1,51 @@
+/*
+Práctica 6:Menús Horizontales y Verticales
+*/
+*{
+    box-sizing: border-box;
+    margin: 0p;
+}
+
+img{
+    float: left;
+    width: 70%;
+    margin: 5px double;
+}
+
+.MenuH{
+    overflow: hidden;
+    border: 5px double;
+}
+
+.MenuV{
+    float: left;  
+    width: 26%;
+    overflow: hidden;  
+}
+
+.MenuV a{
+    background-color: black;
+    color:white;
+    text-decoration: none;
+    padding: 20px;
+    display: block;
+}
+
+.MenuV a:hover{
+    background-color: white;
+    color: white;
+}
+
+.MenuH a{
+    background-color: black;
+    color:white;
+    text-decoration:none;
+    float: left;
+    width: 25%;
+    text-align: center;
+    padding: 20px;
+}
+.MenuH a:hover{
+    background-color: white;
+    color: black;
+}

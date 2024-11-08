@@ -1,0 +1,25 @@
+/*
+    Hoja de Estilos PRÁCTICA9.CSS
+*/
+
+h2{
+    text-align: center;    
+}
+
+header{
+    background-color: aqua;    
+    text-align: center;
+    padding: 20px;
+}
+
+section{
+    width: 33%;
+    float: left;
+}
+
+footer{
+    background-color: aqua;    
+    text-align: center;
+    padding: 20px;
+    clear: both;
+}
