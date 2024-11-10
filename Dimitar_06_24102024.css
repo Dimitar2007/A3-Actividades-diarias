@@ -9,12 +9,12 @@ Práctica 6:Menús Horizontales y Verticales
 img{
     float: left;
     width: 70%;
-    margin: 5px double;
+    margin: 0.313rem double;
 }
 
 .MenuH{
     overflow: hidden;
-    border: 5px double;
+    border: 0.313rem double;
 }
 
 .MenuV{
@@ -27,7 +27,7 @@ img{
     background-color: black;
     color:white;
     text-decoration: none;
-    padding: 20px;
+    padding: 1.25rem;
     display: block;
 }
 
@@ -43,7 +43,7 @@ img{
     float: left;
     width: 25%;
     text-align: center;
-    padding: 20px;
+    padding: 1.25rem;
 }
 .MenuH a:hover{
     background-color: white;

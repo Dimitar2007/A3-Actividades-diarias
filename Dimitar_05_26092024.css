@@ -17,12 +17,12 @@ h1{
 }
 
 div{
-    width: 150px;
-    height: 100px;
-    padding: 30px;
+    width: 9.375rem;
+    height: 6.25rem;
+    padding: 1.875rem;
     text-align: center;
-    margin-top: 30px;
-    margin-bottom: 30px;
+    margin-top: 1.875rem;
+    margin-bottom: 1.875rem;
 }
 
 #lineaNegra{
@@ -30,14 +30,14 @@ div{
     /*float: left;*/
     clear: both;
     width: 100%;
-    border-radius: 0px ;
+    border-radius: 0rem ;
 }
 
 #lineaVerde{
     background-color: rgb(23, 221, 5);
     clear: both;
     width: 100%;
-    border-radius: 0px;
+    border-radius: 0rem;
 }
 
 #bolaAzul{

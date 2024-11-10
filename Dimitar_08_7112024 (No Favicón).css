@@ -1,0 +1,51 @@
+/*
+Código CSS Práctica8.css
+*/
+
+header,footer{
+    background-color: white;
+    border-style: solid;
+    border-radius: 20px;
+    padding: 5px;
+    text-align: center;    
+}
+
+.separador1{
+    height: 10px;    
+}
+
+.centro{
+    width: 60%;    
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border-style: solid;
+}
+
+.main{
+    height: 1200px;
+}
+
+img{
+    transition: all 0.5s ease;    
+}
+
+img:hover{
+    transform: scale(0.9);    
+}
+
+div img{
+    
+}
+
+body{
+    background-image: 
+    url(Imagenes/Fondo\ 2.png);
+    background-position: center 
+    center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-color: grey;
+}
+

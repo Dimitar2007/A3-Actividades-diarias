@@ -9,7 +9,7 @@ h2{
 header{
     background-color: aqua;    
     text-align: center;
-    padding: 20px;
+    padding: 1.25rem;
 }
 
 section{
@@ -20,6 +20,6 @@ section{
 footer{
     background-color: aqua;    
     text-align: center;
-    padding: 20px;
+    padding: 1.25rem;
     clear: both;
 }

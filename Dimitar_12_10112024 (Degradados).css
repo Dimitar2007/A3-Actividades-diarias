@@ -1,0 +1,35 @@
+/* 
+Jugando con degadados
+*/
+
+body{
+    background-image: linear-gradient(to left,rgb(7, 163, 7),blue)
+}
+
+.p1{
+    background-image: linear-gradient(to left rgb(255, 30, 0),rgb(201, 19, 161),green,orange,white);
+}
+
+.p2{
+    background-image: radial-gradient(orange 50%,white);
+}
+
+.p3{
+    background-image: linear-gradient(to right,red,orange,white,yellow);
+}
+
+header{
+    border: solid black 0.1rem;
+    border-radius: 2.5rem;
+    padding: 2rem;
+    text-align: center;
+    background-image: linear-gradient(to right,green,blue);
+}
+
+p{
+    border: 0.1rem black solid;
+    border-radius: 2rem;
+    padding: 2rem;
+    margin-left: 5rem;
+    margin-right: 5rem;
+}

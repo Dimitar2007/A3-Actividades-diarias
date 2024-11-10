@@ -1,26 +1,27 @@
 /*
     Dimitar Dimitrov Milevski
     Septiembre de 2024
+
 */
 
 *{
-    margin: 20px;
+    margin: 2rem;
     box-sizing: border-box;
 }
 
 body{
     background-color:yellowgreen;
-    border: solid 18px green;
-    padding: 80px;
-    margin: 200px;
-    border-radius: 80px;
+    border: solid 1.125rem green;
+    padding: 5rem;
+    margin: 12.5rem;
+    border-radius: 5rem;
 }
 
 h1,h2{
     background-color: rgb(159, 255, 130);
     columns: rgb(255, 255, 255);
-    padding: 25px;
-    border-radius: 45px;
+    padding: 1.563rem;
+    border-radius: 2.813rem;
     text-align: center;
 
 }
